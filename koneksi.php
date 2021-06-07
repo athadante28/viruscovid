@@ -1,3 +1,3 @@
 <?php
-    $conn = mysqli_connect('localhost','root','','covid');
+    $conn = mysqli_connect('localhost','root','','viruscoviddpw');
 ?>
